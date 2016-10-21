@@ -5,12 +5,20 @@ Original dataset with slight modification to include attack categories e.g. DOS,
 Attack types in the new field xAttack and use real-values.
 
 Attacks assigned with real values in new field called xAttack:
+
 dos = [1]
+
 u2r = [2]
+
 r2l = [3]
+
 probe = [4]
+
 normal = [5]
+
 unknown = [6]
+
+
 
 Please contact me if you require any assistance to prepare data for your algorithm or pre-processing.
 
