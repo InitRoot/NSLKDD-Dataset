@@ -18,7 +18,7 @@ normal = [5]
 
 unknown = [6]
 
-
+The dataset has also been coded, the following fields' flag, service and protocol_type categories now represents numerical values instead of categorical. 
 
 Please contact me if you require any assistance to prepare data for your algorithm or pre-processing.
 
