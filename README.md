@@ -22,3 +22,5 @@ The dataset has also been coded, the following fields' flag, service and protoco
 
 Please contact me if you require any assistance to prepare data for your algorithm or pre-processing.
 
+Please reference this github for any usage within your research.
+
