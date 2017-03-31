@@ -22,7 +22,7 @@ After each dataset was divided the xAttack field was reworked for binary classif
 
 Validation dataset to be used for algorithm validation, Train20% split between 66% and 34% for validation.
 
-The datasets have also been coded, the following fields' flag, service and protocol_type categories now represents numerical values instead of categorical. 
+The datasets have also been coded, the following fields' flag, service and protocol_type categories now represents numerical values instead of categorical. Feature selected datasets based on the research presented at ECCWS 2017 are denoted by FS in each folder.
 
 Please contact me if you require multi-class classification on the NSL-KDD dataset based on the xAttack field. Please contact me if you require any assistance to prepare data for your algorithm or pre-processing.
 
