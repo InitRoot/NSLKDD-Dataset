@@ -26,5 +26,7 @@ The datasets have also been coded, the following fields' flag, service and proto
 
 Please contact me if you require multi-class classification on the NSL-KDD dataset based on the xAttack field. Please contact me if you require any assistance to prepare data for your algorithm or pre-processing.
 
-Please reference this github for any usage within your research.
+Please reference this github for any usage within your research and the conference paper.
+
+Botes, F., Leenen, L. and De La Harpe, R. (2017). Ant Colony Induced Decision Trees for Intrusion Detection. In: 16th European Conference on Cyber Warfare and Security. ACPI (June 12, 2017), pp.74-83.
 
