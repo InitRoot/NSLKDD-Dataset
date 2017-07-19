@@ -24,6 +24,8 @@ Validation dataset to be used for algorithm validation, Train20% split between 6
 
 The datasets have also been coded, the following fields' flag, service and protocol_type categories now represents numerical values instead of categorical. Feature selected datasets based on the research presented at ECCWS 2017 are denoted by FS in each folder.
 
+Why use this dataset? Several researchers have claimed the NSL-KDD dataset is old, unrealistic and should not be used. This is facts, however it is crucial to keep the scope of your research project in mind. When you try to establish and methodology, algorithm or solution within the field, you have to provide comparitive results. Without such results the research cannot be compared and will not be as reproducible. However, you should also apply your solution towards a synthetic dataset afterwards and not constrain the project to only this dataset. 
+
 Please contact me if you require multi-class classification on the NSL-KDD dataset based on the xAttack field. Please contact me if you require any assistance to prepare data for your algorithm or pre-processing.
 
 Please reference this github for any usage within your research and the conference paper.
