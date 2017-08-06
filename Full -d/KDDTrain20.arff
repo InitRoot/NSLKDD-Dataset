@@ -2,12 +2,12 @@
 @attribute 'duration' real
 @attribute 'src_bytes' real
 @attribute 'dst_bytes' real
-@attribute 'land' {0,1'}
+@attribute 'land' {0,1}
 @attribute 'wrong_fragment' real
 @attribute 'urgent' real
 @attribute 'hot' real
 @attribute 'num_failed_logins' real
-@attribute 'logged_in' {0,1'}
+@attribute 'logged_in' {0,1}
 @attribute 'num_compromised' real
 @attribute 'root_shell' real
 @attribute 'su_attempted' real
@@ -16,8 +16,8 @@
 @attribute 'num_shells' real
 @attribute 'num_access_files' real
 @attribute 'num_outbound_cmds' real
-@attribute 'is_host_login' {0,1'}
-@attribute 'is_guest_login' {0,1'}
+@attribute 'is_host_login' {0,1}
+@attribute 'is_guest_login' {0,1}
 @attribute 'count' real
 @attribute 'srv_count' real
 @attribute 'serror_rate' real
