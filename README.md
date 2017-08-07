@@ -32,6 +32,7 @@ Please reference this github for any usage within your research and the conferen
 
 Botes, F., Leenen, L. and De La Harpe, R. (2017). Ant Colony Induced Decision Trees for Intrusion Detection. In: 16th European Conference on Cyber Warfare and Security. ACPI (June 12, 2017), pp.74-83.
 
+```
 @inproceedings{botes2017ant,
   title={Ant Colony Induced Decision Trees for Intrusion Detection},
   author={Botes, Frans and Leenen, Louise and De La Harpe, Retha},
@@ -40,7 +41,7 @@ Botes, F., Leenen, L. and De La Harpe, R. (2017). Ant Colony Induced Decision Tr
   year={2017},
   organization={ACPI}
 }
-
+```
 https://www.researchgate.net/publication/318042231_Ant_Colony_Induced_Decision_Trees_for_Intrusion_Detection
 
 
