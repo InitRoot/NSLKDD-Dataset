@@ -2,7 +2,7 @@
 NSL-KDD Dataset for WEKA - feel free to download
 
 Original dataset with slight modification to include attack categories e.g. DOS, U2R as done with the original Kdd99 dataset.
-Features: All attacks divided and use real-values.
+Features: All attacks divided and use real-values. For more information on the feature coding process refer to http://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features
 
 Attacks were assigned with real values in new field called xAttack:
 
