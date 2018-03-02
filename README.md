@@ -44,4 +44,8 @@ Botes, F., Leenen, L. and De La Harpe, R. (2017). Ant Colony Induced Decision Tr
 ```
 https://www.researchgate.net/publication/318042231_Ant_Colony_Induced_Decision_Trees_for_Intrusion_Detection
 
+Also please reference the original creators: 
+References: [1] M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set,” Submitted to Second IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA), 2009.
+
+
 
